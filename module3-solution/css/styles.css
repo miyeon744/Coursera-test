@@ -33,7 +33,7 @@ section {
 	overflow: auto;
 }
 
-#menu_category {
+.menu_category {
 	text-align: center;
 	width: 30%;
 	margin-left: 35%;
